@@ -1,0 +1,33 @@
+    .footer {
+      background-color: #2658b4;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    .footer a {
+      color: white;
+    }
+    .footer a:hover {
+      color: #ccc;
+    }
+    .footer .contact-info {
+      margin-bottom: 20px;
+    }
+    .footer .social-icons a {
+      margin: 0 10px;
+      font-size: 20px;
+    }
+    .btn-contact {
+      padding: 10px 20px;
+      font-size: 16px;
+      border: 1px solid white;
+      color: white;
+      background: none;
+      border-radius: 5px;
+    }
+    .btn-contact:hover {
+      background-color: #0854a1;
+    }
+    .copyright {
+      margin-top: 10px;
+    }
